@@ -29,7 +29,7 @@
       "ctaButton": {
         "openNewTab": false,
         "label": "App store",
-        "url": "/"
+        "url": "https://apps.apple.com/app/id1663560874"
       },
       "footer": [
         { "label": "", "url": "/privacy" },
