@@ -3,12 +3,12 @@
     {
       "visible": true,
       "category": "",
-      "title": "To-do List",
-      "description": "Easy to use to-do list app to help you keep track of your daily tasks",
+      "title": "ML Analysis to boost productivity",
+      "description": "Get curated recommendations and insightful metrics to help boost your productivity!",
       "tags": [],
       "image": {
-        "src": "../../images/proTask2.png",
-        "alt": "Quick Setup"
+        "src": "../../images/proTask5.png",
+        "alt": "Extendable Layout"
       },
       "links": [
       ]
@@ -22,6 +22,19 @@
       "image": {
         "src": "../../images/proTask3.png",
         "alt": "Extendable Layout"
+      },
+      "links": [
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "To-do List",
+      "description": "Easy to use to-do list app to help you keep track of your daily tasks",
+      "tags": [],
+      "image": {
+        "src": "../../images/proTask2.png",
+        "alt": "Quick Setup"
       },
       "links": [
       ]

@@ -19,7 +19,7 @@ With our app, users can easily manage and organize their tasks, and benefit from
     <li>Jest</li>
     <li>Python</li>
     <li>Flask</li>
-    <li>TensorFlow(soon)</li>
+    <li>GPT v3</li>
     <li>Redux Toolkit</li>
 </ul>
 <br />
