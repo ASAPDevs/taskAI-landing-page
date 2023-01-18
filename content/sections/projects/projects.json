@@ -17,7 +17,7 @@
       "visible": true,
       "category": "",
       "title": "Daily Dashboard",
-      "description": "Daily dashboard informing your daily tasks completion progress when you first open the app",
+      "description": "Interactive dashboard that displays quick metrics and provides motivational messages for you.",
       "tags": [],
       "image": {
         "src": "../../images/proTask3.png",
@@ -30,7 +30,7 @@
       "visible": true,
       "category": "",
       "title": "To-do List",
-      "description": "Easy to use to-do list app to help you keep track of your daily tasks",
+      "description": "Easy to use to-do list app to help you keep track of your daily tasks. Schedule tasks in advance, categorize tasks, or push them if your schedule changes!",
       "tags": [],
       "image": {
         "src": "../../images/proTask2.png",

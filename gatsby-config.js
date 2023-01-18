@@ -6,8 +6,8 @@ module.exports = {
         siteUrl: "https://taskai.io/", // Used for sitemap generation
         manifestSettings: {
           favicon: "./content/images/favicon.png", // Path is relative to the root
-          siteName: "tasiAI", // Used in manifest.json
-          shortName: "tasiAI", // Used in manifest.json
+          siteName: "tasksAI", // Used in manifest.json
+          shortName: "tasksAI", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
           backgroundColor: "#FFFFFF", // Used in manifest.json
           themeColor: "#000000", // Used in manifest.json

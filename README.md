@@ -1,4 +1,4 @@
-# taskAI landing page
+# tasksAI landing page
 <div>
     <a href="https://taskai.io/">Info Page</a>
 </div>

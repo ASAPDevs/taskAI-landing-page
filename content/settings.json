@@ -2,12 +2,12 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://taskai.io/",
-    "title": "taskAI",
-    "titleTemplate": "taskAI",
+    "title": "tasksAI",
+    "titleTemplate": "tasksAI",
     "description": "Design to generate personalized task recommendations by studying your daily interaction with the app.",
     "author": "ASAPDevs",
     "avatar": "../content/images/favicon.png",
-    "bio": "taskAI",
+    "bio": "tasksAI",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/ASAPDevs/taskAI",
@@ -18,7 +18,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "taskAI" },
+    "logo": { "text": "tasksAI" },
     "navigation": {
       "header": [
         { "label": "", "url": "/#" },
@@ -27,7 +27,7 @@
         { "label": "Github", "url": "https://github.com/ASAPDevs/taskAI" }
       ],
       "ctaButton": {
-        "openNewTab": false,
+        "openNewTab": true,
         "label": "App store",
         "url": "https://apps.apple.com/app/id1663560874"
       },

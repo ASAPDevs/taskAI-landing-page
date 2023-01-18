@@ -1,10 +1,10 @@
 ---
 imageSrc: "../../images/proTask4.png"
-imageAlt: "About taskAI"
-title: "taskAI"
+imageAlt: "About tasksAI"
+title: "tasksAI"
 ---
 
-taskAI is designed to help users boost their productivity by using machine learning to generate personalized task recommendations based on their daily interactions with the app. 
+tasksAI is designed to help users boost their productivity by using machine learning to generate personalized task recommendations based on their daily interactions with the app. 
 
 With our app, users can easily manage and organize their tasks, and benefit from the power of AI to help them prioritize their work and get more done.
 
