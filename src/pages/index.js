@@ -13,11 +13,11 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="taskAI" />
+      <Seo title="tasksAI" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         {/* <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} /> */}
-        <AboutSection sectionId="about" heading="About taskAI" />
+        <AboutSection sectionId="about" heading="About tasksAI" />
         {/* <InterestsSection sectionId="details" heading="Details" /> */}
         <ProjectsSection sectionId="features" heading="Features" />
         {/* <ContactSection sectionId="github" heading="Issues?" /> */}
